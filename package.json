@@ -14,6 +14,6 @@
   "author": "Vincent Kulak",
   "license": "MIT",
   "dependencies": {
-    "node-eiscp": "^0.2.0"
+    "eiscp": "https://github.com/estbeetoo/eiscp.js"
   }
 }
