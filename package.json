@@ -1,0 +1,19 @@
+{
+  "name": "gladys-onkyo",
+  "version": "0.0.1",
+  "description": "Gladys module to control Onkyo Receivers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "onkyo",
+    "av_receivers"
+  ],
+  "author": "Vincent Kulak",
+  "license": "MIT",
+  "dependencies": {
+    "eiscp": "eiscp"
+  }
+}
