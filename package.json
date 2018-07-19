@@ -1,6 +1,6 @@
 {
   "name": "gladys-onkyo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gladys module to control Onkyo Receivers",
   "main": "index.js",
   "scripts": {
