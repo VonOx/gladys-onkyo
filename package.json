@@ -1,6 +1,6 @@
 {
   "name": "gladys-onkyo",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Gladys module to control Onkyo Receivers",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,11 @@
     "onkyo",
     "av_receivers"
   ],
-  "author": "Vincent Kulak",
+  "author": "Vincent Kulak - VonOx",
   "license": "MIT",
   "dependencies": {
-    "eiscp": "git+https://github.com/orderoftheflame/node-eiscp.git"
+    "bluebird": "^3.5.1",
+    "mathjs": "^5.0.4",
+    "onkyo.js": "^0.4.1"
   }
 }

@@ -1,8 +1,9 @@
 module.exports = function(sails) {
 
-    var setup = require('./lib/setup.js');
-    var init = require('./lib/init.js');
-    var exec = require('./lib/exec.js');
+    var setup = require('./lib/onkyo.setup.js');
+    var init = require('./lib/onkyo.init.js');
+    var exec = require('./lib/onkyo.exec.js');
+
 
     gladys.on('ready', function() {
         init();
@@ -11,6 +12,6 @@ module.exports = function(sails) {
     return {
         setup,
         init,
-        exec,
+        exec
     };
 };
