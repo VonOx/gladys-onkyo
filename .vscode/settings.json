@@ -4,5 +4,5 @@
 	"editor.detectIndentation": false,
 	"files.eol": "\n",
     "files.insertFinalNewline": false,
-    "eslint.enable": true
+    "eslint.enable": false
 }
