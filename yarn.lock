@@ -73,9 +73,9 @@ ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
 
-onkyo.js@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/onkyo.js/-/onkyo.js-0.4.1.tgz#5280dc25407a26139de17e435e010d1d718c1d1e"
+onkyo.js@^0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/onkyo.js/-/onkyo.js-0.4.3.tgz#410515f9a63ef8f74d31ca92ee5cfc5a51cc8920"
   dependencies:
     ansi-escapes "^3.1.0"
     bluebird "^3.5.1"
