@@ -1,22 +1,36 @@
-# Gladys Onkyo
+<h1 align="center">
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Onkyo_logo.svg/320px-Onkyo_logo.svg.png" alt="some text">
+<br><br>
+Gladys Onkyo</h1>
 
-Gladys Module for Onkyo receiver
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Onkyo_%28logo%29.svg/320px-Onkyo_%28logo%29.svg.png)
-
+<h4 align="center">The Gladys Module to control and interact with Onkyo receivers over the network.</h4>
 
 ## Prerequisites
 
-A working instance of Gladys open source
+* Gladys version >= 3.9
+* Onkyo receiver compatible with eISCP Protocol.
 
 ## Installation
 
-### Easy Method
+* Install the module in Gladys from the store
+* Reboot Gladys
 
-This module is available on Gladys module store
+## Configuration
 
-### Hard Method
+* Go the configuration panel.
+* Press the configuration button ( Onkyo receiver are auto-detected ).
 
-In Gladys manual installation page
+## Gladys Links
 
-* 
+*  [Website](https://gladysproject.com)
+*  [Community](https://community.gladysproject.com/)
+*  [Developer Website](https://developer.gladysproject.com)
+*  [Patreon](https://www.patreon.com/gladysproject/overview)
+*  [Twitter](https://twitter.com/gladysproject)
+*  [Instagram](https://www.instagram.com/gladysproject/)
+*  [Facebook](https://www.facebook.com/gladysproject)
+
+## License
+
+Released under the [MIT license](https://github.com/VonOx/gladys-onkyo/blob/master/LICENSE)
