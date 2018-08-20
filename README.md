@@ -6,6 +6,8 @@ Gladys Onkyo</h1>
 
 <h4 align="center">The Gladys Module to control and interact with Onkyo receivers over the network.</h4>
 
+[![dependencies Status](https://david-dm.org/VonOx/gladys-onkyo.svg)](https://david-dm.org/VonOx/gladys-onkyo)
+
 ## Prerequisites
 
 * Gladys version >= 3.9
