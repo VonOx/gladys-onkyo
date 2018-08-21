@@ -23,6 +23,12 @@ Gladys Onkyo</h1>
 * Go the configuration panel.
 * Press the configuration button ( Onkyo receiver are auto-detected ).
 
+## Credits
+
+* [Jussi Vatjus-Anttila](https://github.com/jupe) aka "jupe" for his es6 module.
+* [Nicolas Dubois](https://github.com/NicolasD-62) aka "Pti_Nico" for helping me and his Gladys Yamaha Module.
+* [Boimb](https://community.gladysproject.com/u/boimb/) for his help too and his patience.
+
 ## Gladys Links
 
 *  [Website](https://gladysproject.com)
