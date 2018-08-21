@@ -25,6 +25,7 @@ If applicable, add screenshots to help explain your problem.
  - Gladys version :
  - Node version :
  - Module version :
+ - Onkyo Model :
 
 **Additional context**
 Add any other context about the problem here.
