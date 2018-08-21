@@ -16,6 +16,6 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "mathjs": "^5.0.4",
-    "onkyo.js": "^0.4.3"
+    "onkyo.js": "^0.4.4"
   }
 }
