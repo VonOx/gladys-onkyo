@@ -6,7 +6,9 @@ Gladys Onkyo</h1>
 
 <h4 align="center">The Gladys Module to control and interact with Onkyo receivers over the network.</h4>
 
-[![dependencies Status](https://david-dm.org/VonOx/gladys-onkyo.svg)](https://david-dm.org/VonOx/gladys-onkyo)
+![gladys version](https://badgen.net/badge/Gladys/%3E=%203.9/purple)
+![license](https://badgen.net/github/license/vonox/gladys-onkyo)
+[![dependencies Status](https://badgen.net/david/dep/VonOx/gladys-onkyo)](https://david-dm.org/VonOx/gladys-onkyo)
 
 ## Prerequisites
 
@@ -27,7 +29,7 @@ Gladys Onkyo</h1>
 
 * [Jussi Vatjus-Anttila](https://github.com/jupe) aka "jupe" for his es6 module.
 * [Nicolas Dubois](https://github.com/NicolasD-62) aka "Pti_Nico" for helping me and his Gladys Yamaha Module.
-* [Boimb](https://community.gladysproject.com/u/boimb/) for his help too and his patience.
+* [Boimb](https://github.com/boimb) for his help too and his patience.
 
 ## Gladys Links
 
