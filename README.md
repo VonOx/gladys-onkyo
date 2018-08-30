@@ -29,7 +29,7 @@ Gladys Onkyo</h1>
 
 * [Jussi Vatjus-Anttila](https://github.com/jupe) aka "jupe" for his es6 module.
 * [Nicolas Dubois](https://github.com/NicolasD-62) aka "Pti_Nico" for helping me and his Gladys Yamaha Module.
-* [Boimb](https://community.gladysproject.com/u/boimb/) for his help too and his patience.
+* [Boimb](https://github.com/boimb) for his help too and his patience.
 
 ## Gladys Links
 
