@@ -1,20 +1,28 @@
 {
-  "name": "gladys-onkyo",
-  "version": "1.0.2",
-  "description": "Gladys module to control Onkyo Receivers with eISCP Protocol",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "gladys",
-    "onkyo",
-    "av_receivers"
-  ],
-  "author": "Vincent Kulak - VonOx",
-  "license": "MIT",
-  "dependencies": {
-    "bluebird": "^3.5.1",
-    "onkyo.js": "^0.6.0"
-  }
+    "name": "gladys-onkyo",
+    "version": "1.0.2",
+    "description": "Gladys module to control Onkyo Receivers with eISCP Protocol",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "eslint": "eslint lib"
+    },
+    "keywords": [
+        "gladys",
+        "onkyo",
+        "av_receivers"
+    ],
+    "author": "Vincent Kulak - VonOx",
+    "license": "MIT",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "onkyo.js": "^0.6.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VonOx/gladys-onkyo"
+    },
+    "bugs": {
+        "url": "https://github.com/VonOx/gladys-onkyo/issues"
+    }
 }
