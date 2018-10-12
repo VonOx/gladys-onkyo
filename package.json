@@ -1,6 +1,6 @@
 {
     "name": "gladys-onkyo",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "Gladys module to control Onkyo Receivers with eISCP Protocol",
     "main": "index.js",
     "scripts": {
@@ -15,7 +15,7 @@
     "author": "Vincent Kulak - VonOx",
     "license": "MIT",
     "dependencies": {
-        "bluebird": "^3.5.1",
+        "bluebird": "^3.5.2",
         "onkyo.js": "^0.6.0"
     },
     "repository": {
