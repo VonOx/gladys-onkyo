@@ -1,8 +1,8 @@
 {
-    "editor.tabSize": 4,
+  "editor.tabSize": 2,
 	"editor.insertSpaces": true,
 	"editor.detectIndentation": false,
 	"files.eol": "\n",
-    "files.insertFinalNewline": false,
-    "eslint.enable": true
+  "files.insertFinalNewline": false,
+  "eslint.enable": true
 }
