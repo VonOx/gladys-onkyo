@@ -4,7 +4,7 @@ module.exports = function(sails) {
   var init = require('./lib/onkyo.init.js');
   var exec = require('./lib/onkyo.exec.js');
   var update = require('./lib/onkyo.update.js');
-  var television = require('.lib/television/index.js');
+  var television = require('./lib/television/index.js');
 
   gladys.on('ready', function() {
     init();
